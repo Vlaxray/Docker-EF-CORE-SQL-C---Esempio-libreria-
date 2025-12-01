@@ -1,4 +1,4 @@
-# Docker-EF-CORE-SQL-C---Esempio-libreria-
+# Docker-EF_CORE-SQL-C---Esempio-libreria-
 applicazione C# completa con:  
 - Entity Framework Core ORM 
 - MySQL su Docker 
